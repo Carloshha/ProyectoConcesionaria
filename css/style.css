@@ -1,0 +1,19 @@
+body{
+  font-family: 'Inter', sans-serif;
+}
+.horario{
+  text-align: center;
+  font-weight: bold;
+  color:#26232;
+}
+.nav-link{
+  color:#F5F5F5;
+  font-size: 1.4rem;
+}
+.col-md-3{
+  display: inline-block;
+  margin-left:-4px;
+}
+.col-md-3 img{
+  width:100%;
+  height:auto;
