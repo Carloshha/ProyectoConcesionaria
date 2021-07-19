@@ -1,14 +1,25 @@
 body{
-  font-family: 'Inter', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
 }
-.horario{
-  text-align: center;
-  font-weight: bold;
-  color:#26232;
+* {
+  scroll-behavior: [ auto | smooth ];
 }
-.nav-link{
-  color:#F5F5F5;
-  font-size: 1.4rem;
+@keyframes mover {
+  0%{
+    transform:translate(100%);
+  }
+}
+.header{
+  background:#262322;
+}
+.content{
+  background: #B9272C;
+}
+.titulo{
+  margin-left: 5rem;
+}
+.menu{
+  margin-right: 5rem;
 }
 .col-md-3{
   display: inline-block;
@@ -17,3 +28,7 @@ body{
 .col-md-3 img{
   width:100%;
   height:auto;
+}
+.icon{
+  font-size: 3rem;
+}
