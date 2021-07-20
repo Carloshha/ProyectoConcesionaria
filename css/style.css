@@ -12,11 +12,17 @@ body{
 .content{
   background: #B9272C;
 }
+
+.nav-item{
+
+}
 .titulo{
   margin-left: 5rem;
+  font-size: 1.8rem;
 }
 .menu{
   margin-right: 5rem;
+  font-size: 1.2rem;
 }
 .col-md-3{
   display: inline-block;
