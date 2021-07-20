@@ -1,37 +1,36 @@
-body{
-  font-family: 'Noto Sans JP', sans-serif;
+body {
+  font-family: "Noto Sans JP", sans-serif;
 }
 @keyframes mover {
-  0%{
-    transform:translate(100%);
+  0% {
+    transform: translate(100%);
   }
 }
-.header{
-  background:#262322;
+.header {
+  background: #262322;
 }
-.content{
-  background: #B9272C;
+.content {
+  background: #b9272c;
 }
 
-.nav-item{
-
+.nav-item {
 }
-.titulo{
-  margin-left: 5rem;
+.titulo {
+  margin-left: 2rem;
   font-size: 1.8rem;
 }
-.menu{
+.menu {
   margin-right: 5rem;
   font-size: 1.2rem;
 }
-.col-md-3{
+.col-md-3 {
   display: inline-block;
-  margin-left:-4px;
+  margin-left: -4px;
 }
-.col-md-3 img{
-  width:100%;
-  height:auto;
+.col-md-3 img {
+  width: 100%;
+  height: auto;
 }
-.icon{
+.icon {
   font-size: 3rem;
 }
