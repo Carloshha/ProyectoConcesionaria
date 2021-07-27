@@ -16,11 +16,7 @@ body {
 .nav-item {
 }
 .titulo {
-  font-size: 1.8rem;
-}
-.menu {
-  margin-right: 5rem;
-  font-size: 1.2rem;
+  margin-left: 1rem;
 }
 .col-md-3 {
   display: inline-block;
